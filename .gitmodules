@@ -1,0 +1,3 @@
+[submodule "taas-firmware"]
+	path = taas-firmware
+	url = https://github.com/l3olton/taas-firmware
